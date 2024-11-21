@@ -156,6 +156,7 @@ void loop()
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/068d512a-dcec-4375-9953-1370c65df791)
 
+## RESULT
 Thus the light intensity values are updated in the Thing speak cloud using ESP32 controller.
 
 
